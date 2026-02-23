@@ -1,3 +1,9 @@
+<td width="40%" align="center">
+
+<img src="URL_DA_SUA_IMAGEM_PIXEL_ART.jpg" width="200px">
+
+</td>
+
 <h1 align="center">
   <span style="color:#c9d1d9;">Yara da Silva</span>
 </h1>
@@ -14,7 +20,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%" align="center">
 
 Sou estudante de Tecnologia da Informação pela <b>FATEC Itaquera</b>, com formação técnica em Desenvolvimento de Sistemas pela <b>ETEC</b>.
 
@@ -29,7 +35,7 @@ Atualmente direciono meus estudos para desenvolvimento web moderno e backend.
 </td>
 <td width="40%" align="center">
 
-<img src="URL_DA_SUA_IMAGEM_PIXEL_ART.JPG" width="200px">
+<img src="URL_DA_SUA_IMAGEM_PIXEL_ART.jpg" width="200px">
 
 </td>
 </tr>
@@ -67,10 +73,10 @@ Assistente Administrativo · Informática Profissional
 ## <span style="color:#a371f7;">Estatísticas</span>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yaradasilva&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yaradasilva&theme=tokyonight&background=0d1117&border=30363d" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NasSilvaYara&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=NasSilvaYara&theme=tokyonight&background=0d1117&border=30363d" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaradasilva&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a371f7&text_color=c9d1d9" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasSilvaYara&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a371f7&text_color=c9d1d9" />
 </p>
