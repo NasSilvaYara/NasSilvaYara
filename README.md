@@ -1,6 +1,6 @@
-<td width="40%" align="center">
+                            <td width="40%" align="center">
 
-<img src="URL_DA_SUA_IMAGEM_PIXEL_ART.jpg" width="200px">
+<img src="BANNER.jpg" width="200px">
 
 </td>
 
