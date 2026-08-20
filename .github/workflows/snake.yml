@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Roda automaticamente a cada 24 horas
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -20,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#0284c7&color_dots=#ebedf0,#bae6fd,#38bdf8,#0284c7,#0369a1
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#0c4a6e,#0284c7,#38bdf8,#7dd3fc
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
