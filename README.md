@@ -5,7 +5,7 @@
 # YARA NASCIMENTO DA SILVA
 **Desenvolvimento de Software | Web & Automações**
 
-São Paulo, SP — [LinkedIn](https://www.linkedin.com/in/nassilvayara) · [Portfólio](https://seu-portfolio.com) · [E-mail](mailto:nas.silvayara@gmail.com)
+São Paulo, SP — [LinkedIn](https://www.linkedin.com/in/nassilvayara) · [Portfólio](https://nassilvayara.github.io/CreatedbyYara) · [E-mail](mailto:nas.silvayara@gmail.com)
 
 <br />
 
